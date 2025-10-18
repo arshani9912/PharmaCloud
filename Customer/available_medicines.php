@@ -136,7 +136,6 @@ h2.section-title {
   <th>Brand</th>
   <th>Description</th>
   <th>Price</th>
-  <th>Qty</th>
   <th>Expiry</th>
 </tr>
 </thead>
@@ -152,6 +151,7 @@ $(document).ready(function(){
         $.post('available_medicines.php',{action:'fetch'},function(data){
             let rows='';
             JSON.parse(data).forEach(m=>{
+                // still highlight low stock internally if needed, using quantity
                 let low=m.quantity<=10?'low-stock':'';
                 rows+=`<tr class="${low}">
                     <td>${m.medicine_id}</td>
@@ -159,7 +159,6 @@ $(document).ready(function(){
                     <td>${m.brand_name||''}</td>
                     <td>${m.description||''}</td>
                     <td>${m.unit_price}</td>
-                    <td>${m.quantity}</td>
                     <td>${m.expiry_date||''}</td>
                 </tr>`;
             });
