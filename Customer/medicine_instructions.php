@@ -67,7 +67,7 @@
     <a href="stock_status.php"><i class="bi bi-basket me-2"></i> Stock Status</a>
     <a href="available_medicines.php"><i class="bi bi-box-seam me-2"></i> Available Medicines</a>
     <a href="medicine_instructions.php"><i class="bi bi-capsule me-2"></i> Medicine Instructions</a>
-    <a href="home.php"><i class="bi bi-box-arrow-right me-2"></i> Logout</a>
+    <a href="logout.php"><i class="bi bi-box-arrow-right me-2"></i> Logout</a>
   </div>
 
   <!-- Main Content -->
@@ -191,6 +191,16 @@
           </div>
         </div>
 
+        <!-- Penicillin -->
+        <div class="col-md-6">
+          <div class="card p-3 important">
+            <h5 class="card-title">Penicillin</h5>
+            <p>✔ Take the entire course of medicine as prescribed, even if you feel better.</p>
+            <p>❌ Do NOT use for colds, flu, or other viral infections.</p>
+          </div>
+        </div>
+
+
       </div>
     </section>
 
@@ -199,4 +209,3 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
