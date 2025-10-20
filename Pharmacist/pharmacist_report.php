@@ -90,8 +90,9 @@ table th { background-color:#212529; color:#fff; }
   <a href="pharmacist_sales.php"><i class="fas fa-cash-register"></i> Sales</a>
   <a href="purchases.php"><i class="fas fa-truck"></i> Purchases</a>
   <a href="suppliers.php"><i class="fas fa-users"></i> Suppliers</a>
-  <a href="pharmacist_report.php" class="active"><i class="fas fa-chart-bar"></i> Reports</a>
-  <a href="home.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
+  <a href="pharmacist_medicine_instructions.php"><i class="bi bi-capsule me-2"></i> Medicine Instructions</a>
+  <a href="pharmacist_report.php"><i class="fas fa-chart-bar"></i> Reports</a>
+  <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
 </nav>
 
 <!-- Main Content -->
