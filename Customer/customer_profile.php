@@ -97,15 +97,15 @@
       <hr>
       <div class="mb-3">
         <label for="name" class="form-label">Name</label>
-        <input type="text" id="name" class="form-control" value="Arshani Muthumali">
+        <input type="text" id="name" class="form-control" value="Roshani Lakmali">
       </div>
       <div class="mb-3">
         <label for="email" class="form-label">Email</label>
-        <input type="email" id="email" class="form-control" value="arshani@example.com" readonly>
+        <input type="email" id="email" class="form-control" value="roshanilakmali96@gmail.com" readonly>
       </div>
       <div class="mb-3">
         <label for="phone" class="form-label">Phone</label>
-        <input type="text" id="phone" class="form-control" value="071-XXXXXXX">
+        <input type="text" id="phone" class="form-control" value="071-6253881">
       </div>
 
       <button class="btn btn-success">Update Profile</button>
