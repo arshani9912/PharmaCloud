@@ -66,9 +66,10 @@ body { font-family: 'Poppins', sans-serif; background-color: #f5f7fa; margin: 0;
   </div>
   <a href="pharmacist_dashboard.php"><i class="bi bi-speedometer2"></i> Dashboard</a>
   <a href="manage_medicines.php"><i class="fas fa-pills"></i> Manage Medicines</a>
-  <a href="pharmacist_sales.php" class="active"><i class="bi bi-cash-stack"></i> Sales</a>
+  <a href="pharmacist_sales.php" class="active"><i class="bi bi-wallet2"></i> Sales</a>
   <a href="purchases.php"><i class="bi bi-truck"></i> Purchases</a>
   <a href="suppliers.php"><i class="bi bi-people"></i> Suppliers</a>
+  <a href="pharmacist_medicine_instructions.php"><i class="bi bi-capsule me-2"></i> Medicine Instructions</a>
   <a href="reports.php"><i class="bi bi-bar-chart-line"></i> Reports</a>
   <a href="home.php"><i class="bi bi-box-arrow-right"></i> Logout</a>
 </nav>
