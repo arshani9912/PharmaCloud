@@ -1,4 +1,5 @@
-# 📑 PharmaCloud – Pharmacy Stock Management System  
+# 📑 PharmaCloud – Pharmacy Stock Management System 
+---
 
 - Author / Student: Arshani Muthumali
 - Supervisor: Ms.M.A.L.Kalyani
