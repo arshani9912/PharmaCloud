@@ -20,7 +20,6 @@
 - Provide **role-based access** for Admins, Pharmacists and Customers.  
 - Build the system using **PHP, MySQL, and Bootstrap**.  
 
----
 
 ## 3. Problem Definition  
 
