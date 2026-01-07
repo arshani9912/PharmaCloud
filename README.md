@@ -6,7 +6,6 @@
 - Client: Owner of Sahana Pharmacy, Karapitiya - Mr.Sarath Welivita
 - Date: 22-08-2025
 
-
 ## 1. Introduction  
 
 **PharmaCloud** Pharmacy Stock Management System is a web-based application designed to help pharmacies efficiently manage their inventory, track medicine stock levels, and streamline sales and purchase processes. The system allows Pharmacist to add, update, and monitor medicines, record transactions, and generate basic reports. It ensures accurate stock management, reduces errors, and helps pharmacy owners make informed decisions. Built using PHP, MySQL, and Bootstrap, the system supports secure user authentication and role-based access for Pharmacist, Customer and administrators.
